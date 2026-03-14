@@ -16,8 +16,24 @@ Features:
 - Works in Node.js and modern browsers
 
 ## Installation
+Using NPM
 
+```bash
 npm install intl-date-utils
+```
+
+Using Yarn
+
+```bash
+yarn add intl-date-utils
+```
+
+Using Pnpm
+
+```bash
+pnpm install intl-date-utils
+```
+
 
 ## Usage
 
