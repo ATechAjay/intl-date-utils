@@ -9,11 +9,12 @@ Lightweight date utilities powered by the modern JavaScript Intl API.
 Features:
 
 - Zero dependencies
-- Intl based formatting
+- Intl-based formatting
 - Timezone aware
 - Relative time utilities
 - Small bundle size
 - Works in Node.js and modern browsers
+- Types enabled to work with TypeScript Projects
 
 ## Installation
 Using NPM
@@ -124,7 +125,25 @@ npm publish --access public
 
 ## License
 
-MIT
+[MIT](./LICENSE)
+
+## 🤝 Contributing
+
+Contributions are always welcome!
+
+See [CONTRIBUTING.md](https://github.com/CreoWis/intl-date-utils/blob/main/CONTRIBUTING.md) for ways to get started.
+
+Please adhere to this project's [code of conduct](https://github.com/CreoWis/intl-date-utils/blob/main/CODE_OF_CONDUCT.md).
+
+## 🙏 Support Us
+
+This is an OSS project maintained by [CreoWis](https://www.creowis.com/). We need all the support we can get. Please give this project a ⭐️ to encourage and show that you liked it.
+
+If you found the project helpful, consider supporting us with a ☕
+
+<a href="https://www.buymeacoffee.com/creowis">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50px">
+</a>
 
 ## Contributors ✨
 
